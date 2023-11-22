@@ -1,3 +1,3 @@
 <template>
-  <h1 class="text-4xl md:text-5xl xl:text-6xl sword"><slot/></h1>
+  <h1 class="text-3xl md:text-4xl xl:text-5xl font-bold wakanda"><slot/></h1>
 </template>
