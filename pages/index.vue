@@ -89,6 +89,10 @@
     </ul>
   </section>
   <img src="/images/05.jpeg" alt="" class="mx-auto">
+  <div class="px-6 py-20">
+    <UiTypographyP class="p-6 max-w-3xl mx-auto border border-purple-700 rounded-2xl"><strong>Disclaimer: </strong>Investing in crypto currency is subject to market risk. Invest Responsibly and be ready to take responsibility of any loss you encounter.</UiTypographyP>
+  </div>
+
 </template>
 <style>
 .poppins {
