@@ -27,6 +27,8 @@
     </div>
   </section>
   <section class="px-6 max-w-7xl mx-auto pb-20 flex flex-col lg:flex-row gap-8 items-center">
+    <img class="lg:w-2/3" src="/images/03.jpeg" alt="">
+
     <div class="lg:w-1/2 lg:pl-8 text-center lg:text-left">
       <UiTypographyH2 class="wakanda">Tokenomics</UiTypographyH2>
       <UiTypographyP class="mt-4">Name: Wakandan dollar <br  />
@@ -41,9 +43,9 @@
         1% reward<br  />
       </UiTypographyP>
     </div>
-    <img class="lg:w-2/3" src="/images/03.jpeg" alt="">
   </section>
-  <section class="px-6 max-w-7xl mx-auto pb-20">
+  <img src="/images/04.jpeg" alt="" class="mx-auto">
+  <section class="px-6 max-w-7xl mx-auto py-20">
     <UiTypographyH2 class="wakanda text-center">Roadmap </UiTypographyH2>
     <ul class="grid lg:grid-cols-3 relative mt-16 lg:gap-8 gap-16">
       <li class="p-6 border border-purple-500 rounded-xl relative">
@@ -86,6 +88,7 @@
       </li>
     </ul>
   </section>
+  <img src="/images/05.jpeg" alt="" class="mx-auto">
 </template>
 <style>
 .poppins {
