@@ -31,16 +31,17 @@
 
     <div class="lg:w-1/2 lg:pl-8 text-center lg:text-left">
       <UiTypographyH2 class="wakanda">Tokenomics</UiTypographyH2>
-      <UiTypographyP class="mt-4">Name: Wakandan dollar <br  />
-        Symbol: $wakanda<br  />
-        Decimal: 18<br  />
-        Total supply: 1,000,000,000<br  />
-        Tax: 7%<br  /><br  />
-        Mechanism which is divided below<br  />
-        1% auto burn<br  />
-        2 auto LP<br  />
-        3 marketing<br  />
-        1% reward<br  />
+      <UiTypographyP class="mt-4">Wakandan Dollar on Binance Smart Chain Network:<br  />
+        7% Buy | 7% Sell <br  />
+        Take Breakdown: 1% Auto Burn<br  />
+        2% Liquidity<br  />
+        3% Marketing and Development.<br  /><br  />
+        1% Reward in 🚀 Coin Emoji.<br  />
+        Liquidity Lock and Renounced and Immutable.<br  /><br />
+        Wakanda Dollar on Solana CHain Network:<br  />
+        0 Tax.<br  />
+        Liquidity Burnt.<br  />
+        Renounced and Immutable
       </UiTypographyP>
     </div>
   </section>
@@ -90,7 +91,7 @@
   </section>
   <img src="/images/05.jpeg" alt="" class="mx-auto">
   <div class="px-6 py-20">
-    <UiTypographyP class="p-6 max-w-3xl mx-auto border border-purple-700 rounded-2xl"><strong>Disclaimer: </strong>Investing in crypto currency is subject to market risk. Invest Responsibly and be ready to take responsibility of any loss you encounter.</UiTypographyP>
+    <UiTypographyP class="p-6 max-w-3xl mx-auto border border-purple-700 rounded-2xl"><strong>Disclaimer: </strong>Wakandan Dollar $WAKANDA coin has no association with Marvel comics, Black Panther or any associated enities. This token is simply paying homage to a meme with intention of uniting Africans and the World, By promoting and bringing awarness that africa is the Cradle of Civilization. <br />$WAKANDA is a meme coin with no intrinsic value or expectation of financial return. There is no formal team or roadmap. the coin is completely useless and for entertainment purposes only.</UiTypographyP>
   </div>
 
 </template>
