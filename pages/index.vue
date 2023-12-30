@@ -3,7 +3,7 @@
     <img src="/images/logo.jpeg" class="w-full lg:w-1/2" alt="">
     <div class="px-6 md:pr-8 lg:pr-10 xl:pr-16">
       <UiTypographyH1>Wakandan Dollar - <br  /><span class="poppins">The Cryptocurrency to Unite the world.</span></UiTypographyH1>
-      <UiTypographyP class="mt-4">Wakanda is a legendary place of goodness that all aspire to journey to, sometimes also called “the country of life.” <br  />Wakanda, it is one of the most technologically advanced nations on Earth, known for its rich deposits of the element vibranium.<br  />Wakandan dollar is the native currency of the Wakandan kingdom which is deployed on the Binance Smart Chain.</UiTypographyP>
+      <UiTypographyP class="mt-4">Wakanda is a legendary place of goodness that all aspire to journey to, sometimes also called “the country of life.” <br  />Wakanda, it is one of the most technologically advanced nations on Earth, known for its rich deposits of the element vibranium.<br  />Wakandan Dollar is the native currency of the Wakandan Kingdom which is built on two Blockchain Network: the Binance Smart Chain and the Solana chain.</UiTypographyP>
     </div>
   </header>
   <div class="flex gap-5 py-20 justify-center px-6">
