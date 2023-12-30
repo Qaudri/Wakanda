@@ -1,4 +1,5 @@
 <template>
+  <Head><Title>Wakandan Dollar - The Cryptocurrency to Unite the world.</Title></Head>
   <header class="flex flex-col lg:flex-row gap-8 items-center">
     <img src="/images/logo.jpeg" class="w-full lg:w-1/2" alt="">
     <div class="px-6 md:pr-8 lg:pr-10 xl:pr-16">
